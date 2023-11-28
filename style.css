@@ -1,1 +1,24 @@
+p {
+  color: green;
+  font-family: Helvetica;
+}
 
+h1 {
+  border: 2.5px solid black;
+  font-size: 36px;
+}
+
+header {
+  text-align: center;
+  margin-top: 5px;
+}
+
+body {
+  background-color: #242f44;
+  font-family: 'Oswald', sans-serif;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+}
