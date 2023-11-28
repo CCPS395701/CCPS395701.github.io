@@ -24,7 +24,12 @@ footer {
 }
 
 ol {
-style="list-style-type:upper-roman";
-style="list-style-type:upper-roman";
+  style="list-style-type:upper-roman";
+  style="list-style-type:upper-roman";
+}
+
+ul {
+  style="list-style-type:square";
+  style="line-height:180%";
 }
 
