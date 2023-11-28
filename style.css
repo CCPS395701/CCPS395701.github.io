@@ -14,11 +14,18 @@ header {
 }
 
 body {
-  background-color: #242f44;
+  background-color: white
   font-family: 'Oswald', sans-serif;
 }
 
 footer {
   margin-top: 50px;
   text-align: center;
+}
+
+ul {
+Home
+about me
+My Resume
+color: red;
 }
